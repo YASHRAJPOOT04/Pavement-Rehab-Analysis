@@ -1,0 +1,12 @@
+Gaussian Mixture Model Clustering Analysis Summary Report
+===================================================
+
+1. GMM Clustering Results
+----------------------
+Optimal number of clusters: 12
+Final Silhouette Score: 0.446
+Final Davies-Bouldin Score: 0.531
+Final Calinski-Harabasz Score: 383.377
+BIC Score: 516.9
+AIC Score: 205.8
+
